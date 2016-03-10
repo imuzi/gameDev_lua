@@ -1,0 +1,1 @@
+-- shortcode for ui create functions in common use
